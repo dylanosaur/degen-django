@@ -1,0 +1,3 @@
+django-admin
+requests
+beautifulsoup4
